@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.png
+*.csv
+*.ipynb
+
+Barcelona H16 single bus.csv
+Barcelona L33 single bus.csv
+
+*.jpg
+*.jfif
